@@ -1,6 +1,6 @@
 # Wine Quality Prediction Analysis - Classification
 
-**Complete Video Tutorial:** https://youtu.be/W25TEa93T_I
+
 
 # Dataset Information
 
@@ -48,3 +48,4 @@ Output variable (based on sensory data): \
 <li>Removing Attributes
 <li>Hyperparameter Tuning
 <li>Random UnderSampling
+
